@@ -35,6 +35,7 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 <!-- @TODO: create ticket to review/update image) -->
+
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
 ## Grading Requirements
@@ -42,11 +43,8 @@ The following animation demonstrates the application functionality:
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 >
 > * A repository that has no code
->
 > * A repository that includes a unique name but nothing else
->
 > * A repository that includes only a README file but nothing else
->
 > * A repository that only includes starter code
 
 This Challenge is graded based on the following criteria:
@@ -60,31 +58,22 @@ This Challenge is graded based on the following criteria:
 ### Deployment: 32%
 
 * Application deployed at live URL
-
 * Application loads with no errors
-
 * Application GitHub URL submitted
-
 * GitHub repo contains application code
 
 ### Application Quality: 15%
 
 * Application user experience is intuitive and easy to navigate
-
 * Application user interface style is clean and polished
-
 * Application resembles the mock-up functionality provided in the Challenge instructions
 
 ### Repository Quality: 13%
 
 * Repository has a unique name
-
 * Repository follows best practices for file structure and naming conventions
-
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
 * Repository contains multiple descriptive commit messages
-
 * Repository contains quality README file with description, screenshot, and link to deployed application
 
 ## Review
@@ -92,8 +81,9 @@ This Challenge is graded based on the following criteria:
 You are required to submit the following for review:
 
 * The URL of the deployed application
-
 * The URL of the GitHub repository, with a unique name and a README describing the project
+  * https://github.com/dunlog14/scheduler
 
-- - -
+---
+
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
